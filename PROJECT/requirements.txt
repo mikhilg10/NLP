@@ -1,0 +1,9 @@
+!pip install googletrans==4.0.0-rc1
+!pip install pygoogletranslation
+!pip install pandas
+!pip install numpy
+!pip install pickle
+!pip install re
+!pip install nltk
+!pip install -U sckit-learn
+!pip install emoji

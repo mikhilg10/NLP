@@ -1,0 +1,25 @@
+
+Project title-Sentiment Analysis of Code-Mixed Social Media Text (Hinglish)
+final project implementation and demo file-
+                1.Glove_svm_english_hindi.ipynb
+                2.bag_of_words_english_hindi.ipynb
+
+we have used 5 models(SVM,LR,DT,RF and XGB) with both approach Bag of words and Glove embedding.
+
+folder structure-
+            code-
+                data-contains raw and processed data
+                preprocessing-contains notebook used for processing of data
+                trained_model_weights-contains trained model trained_model_weights
+            
+            Glove_svm_english_hindi.ipynb
+
+            bag_of_words_english_hindi.ipynb
+            
+            Sentiment Analysis of Code-Mixed Social Media Text (Hinglish).pdf
+
+To run the notebook-
+        Run the commands present in requirements.txt
+        change the path if necessary
+        To save the model weights uncomment the dump/pickle part after the model accuracy calculation
+        
