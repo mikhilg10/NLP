@@ -6,3 +6,6 @@ NLP Notebooks
 2. WSD
 
 3. NER
+
+
+final democontains all the numbers f above assignments
